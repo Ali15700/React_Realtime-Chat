@@ -1,0 +1,28 @@
+chat_application
+
+npx create-react-app ./
+
+npm install @ant-design/icons axios react-chat-engine
+
+delete src
+
+then create new SRC and index.js
+
+
+create App.js
+
+CHATENGINE:
+
+renderChatFeed (we can add our own components in chat-engine )
+
+DEPOLYMENT
+
+NETLiFY web
+
+npm run build
+
+
+click and reveal fle explorer
+
+
+drag and drop build

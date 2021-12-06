@@ -1,0 +1,27 @@
+firebase_chat
+
+npx create-react-app superchat
+
+npm install firebase react-firebase-hooks
+
+Sign in Method from Google
+
+Go to https://console.firebase.google.com
+
+then create project
+
+select Authentication -> get started -> google sign in method -> enable
+
+then Go to Firestone Database and Create Database
+
+copy and paste these scripts into the bottom of your <body> tag.but before you use any Firebase services 
+
+<script>
+	var firebaseConfig = {
+	apiKey:
+	};
+
+
+//insert backend server
+
+firebase init functions
